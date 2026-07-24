@@ -1,14 +1,4 @@
-## Hi there 👋
-- 🔭 I’m currently an intern at Goinnovior Limited.
-- 🌱 I’m currently learning react.js
-- 👯 I’m looking to collaborate on web development project
-- 🤔 I’m looking for help with development
-- 💬 Ask me about anything
-- 📫 How to reach me: +8801767655821
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 🙂‍↔️
-  
-  🌟 About Me :
+🌟 About Me :
 
 Assalamulaikum, As a dedicated student of software engineering, I excel in communication, programming, and leadership. I strive to produce high-quality engineering products, always eager to adopt new inform ation and work diligently towards my goals. My strong time management skills and commitm ent to continuous improvement allow me to adapt and refine my skills effectively.
 
